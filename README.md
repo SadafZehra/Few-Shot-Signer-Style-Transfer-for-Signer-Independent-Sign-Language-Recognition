@@ -66,6 +66,3 @@ My thesis separated *which character* is written from *whose handwriting style* 
 C is about 2.2 points above D and B in top-1, which is the direction the hypothesis predicts. The paired-bootstrap confidence intervals are printed by the notebook (Step 6); check them before claiming any significant gain. Top-5 does not show the same benefit.
 
 
-## 10. Data credit
-
-WLASL: Li et al., *Word-level Deep Sign Language Recognition from Video* (WACV 2020). MediaPipe landmarks from the Kaggle dataset *MuteMotion: WLASL MediaPipe Encoded*. Please follow the terms of both datasets.
