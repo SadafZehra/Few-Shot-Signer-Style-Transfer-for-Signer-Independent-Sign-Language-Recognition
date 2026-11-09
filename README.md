@@ -1,7 +1,6 @@
 # Few-Shot Signer Style Transfer for Sign Language Recognition
 ### Learning an unseen signer's style from five clips to improve signer-independent recognition
 
-**Notebook:** `Few_Shot_Signer_Style_Generation.ipynb` (Google Colab, T4 GPU)
 **Data:** WLASL (American Sign Language), MediaPipe landmarks
 
 ---
@@ -66,9 +65,6 @@ My thesis separated *which character* is written from *whose handwriting style* 
 
 C is about 2.2 points above D and B in top-1, which is the direction the hypothesis predicts. The paired-bootstrap confidence intervals are printed by the notebook (Step 6); check them before claiming any significant gain. Top-5 does not show the same benefit.
 
-## 5. Requirements
-
-Python 3, PyTorch, NumPy, pandas, matplotlib, tqdm, `kagglehub`. All except `kagglehub` are pre-installed on Colab.
 
 ## 10. Data credit
 
